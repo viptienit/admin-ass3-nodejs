@@ -1,0 +1,23 @@
+.flex {
+  display: flex;
+}
+.btnD {
+  padding: 8px 10px;
+  margin-right: 10px;
+  color: white;
+  border: none;
+  cursor: pointer;
+  background-color: #ff704d;
+}
+.btnU {
+  padding: 8px 10px;
+  margin-right: 10px;
+  color: white;
+  border: none;
+  cursor: pointer;
+  background-color: #4ce600;
+}
+.btnU:hover,
+.btnD:hover {
+  background-color: #3399ff;
+}
